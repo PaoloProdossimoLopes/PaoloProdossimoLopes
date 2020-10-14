@@ -85,3 +85,12 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 -->
+
+
+
+
+
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloProdossimoLopes" id="counter">
+</p>
