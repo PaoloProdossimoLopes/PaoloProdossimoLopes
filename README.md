@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PaoloProdossimoLopes/PaoloProdossimoLopes/main/images/IMG_4481.jpg" width="1250"/>
 </p> 
+
+<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/>
+
 <!--Model 1-->
 
 ![age](https://img.shields.io/badge/Age-20-blue)
@@ -38,18 +41,24 @@
 <!--<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />-->
 
 
-### 💻 Some stats 💻
 
-  
-![PaoloProdossimoLopes github stats](https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
+
+<p width= "50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
 
 
 
-### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
+<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
+
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
 
 ### Technologies I'm Learning :books:
