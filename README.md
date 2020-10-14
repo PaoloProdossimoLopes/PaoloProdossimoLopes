@@ -11,6 +11,8 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-prodossimo-lopes-14a982191)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
+<!--Donate--> 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
@@ -21,11 +23,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
 -->
 
-<!--
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
--->
 
-<!--Model2
+
+
+
+<!--
 <p align="center">
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
 </p>
@@ -105,3 +107,6 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloProdossimoLopes" id="counter">
 </p>
+
+
+
