@@ -43,6 +43,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-orange?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
+![Adobe XD cc](https://img.shields.io/badge/XD-magenta?style=flat-square&logo=Adobe-XD&logoColor=white)
 
 <!--
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
