@@ -44,7 +44,9 @@
 
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width: "50%">
+<p width= "50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
 
