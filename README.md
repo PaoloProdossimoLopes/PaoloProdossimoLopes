@@ -33,28 +33,6 @@
 
 
 
-
-<!--GitHub Stats-->
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
-
-<p width= "50%" >
-<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
-
-
-
-
-<!--Repositorios-->
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
-
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=digitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-
-
 <!--Skills-->
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
 
@@ -91,6 +69,30 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 -->
+
+
+<!--GitHub Stats-->
+<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
+
+<p width= "50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
+
+
+
+
+<!--Repositorios-->
+<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
+
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=digitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
+
+
+
 
 
 
