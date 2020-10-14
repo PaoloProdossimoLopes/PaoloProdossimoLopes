@@ -1,6 +1,6 @@
 <!--Top-->
 <p align="center">
-  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/IMG_4484.PNG" width="1250"/>
+  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/IMG_4484.PNG" width="1000"/>
 </p> 
 
 <!--About Me-->
