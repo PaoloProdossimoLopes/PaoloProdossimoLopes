@@ -16,8 +16,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime.
+- 🌱 &nbsp; Curious about cyber Security and Artificial Intelligence .
+<!--- ✍️ &nbsp; Watching Anime.-->
 <!--
 <a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
