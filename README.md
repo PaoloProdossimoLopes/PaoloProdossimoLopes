@@ -41,7 +41,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d)
-![Python](http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=ffff4a)
+![Python](http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white)
