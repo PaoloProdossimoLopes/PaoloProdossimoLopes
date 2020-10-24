@@ -9,7 +9,7 @@
 ![age](https://img.shields.io/badge/Age-20-blue)
 ![living](https://img.shields.io/badge/Living-Brazil-green)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-prodossimo-lopes-14a982191)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
 <!--Donate--> 
