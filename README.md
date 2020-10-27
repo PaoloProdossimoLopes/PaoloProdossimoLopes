@@ -9,15 +9,15 @@
 ![age](https://img.shields.io/badge/Age-20-blue)
 ![living](https://img.shields.io/badge/Living-Brazil-green)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-prodossimo-lopes-14a982191)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
 <!--Donate--> 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime.
+- 🌱 &nbsp; Curious about cyber Security and Artificial Intelligence .
+<!--- ✍️ &nbsp; Watching Anime.-->
 <!--
 <a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
@@ -38,6 +38,24 @@
 <!--Skills-->
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
 
+![HTML5](https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d)
+![Python](http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
+![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
+![Adobe XD cc](https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white)
+
+
+
+<!--
+
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
@@ -51,6 +69,13 @@
 ![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-orange?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Adobe XD cc](https://img.shields.io/badge/XD-magenta?style=flat-square&logo=Adobe-XD&logoColor=white)
+
+
+-->
+
+
+
+
 
 <!--
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
