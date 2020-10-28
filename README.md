@@ -148,25 +148,22 @@ invisivle:
 
 
 <!-- Principais Repositorios-->
-<!--
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
 </p>
 <p align="center">
-  <a href="#"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="https://github.com/PaoloProdossimoLopes/TrunkProjetoIntegradorDH"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=TrunkProjetoIntegradorDH&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 </p>
--->
+
 
 <!-- Repositorios De estudo-->
-
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/TITLE.png"/>
 </p>
 <p align="center">
-  <a href="#"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="#"><img alt="Python Study Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=PythonStudy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="https://github.com/PaoloProdossimoLopes/DankiCodeClassProjects"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="https://github.com/PaoloProdossimoLopes/DigitalHouseProjects"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="https://github.com/PaoloProdossimoLopes/PythonStudy"><img alt="Python Study Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=PythonStudy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
   <!-- <a href="#"><img alt="" src=""/> -->
 </p>
     
