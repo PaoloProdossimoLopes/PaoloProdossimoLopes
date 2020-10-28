@@ -55,7 +55,7 @@ badges markdown
 </p>
 
 
-<img align="left" width="150" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
+<img padding="100px" align="left" width="150" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 
 <p align="center">
   <p align="left">
