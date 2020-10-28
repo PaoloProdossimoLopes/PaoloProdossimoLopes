@@ -55,7 +55,7 @@ badges markdown
 </p>
 
 <p align="center">
-  <img align="left" width="250" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
+  <img align="left" width="350px" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 
 <br/><br/><br/>
 
@@ -124,7 +124,7 @@ invisivle:
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 -->
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <!--GitHub Stats-->
 
