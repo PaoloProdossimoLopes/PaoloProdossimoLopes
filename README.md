@@ -3,31 +3,31 @@
 <p align="center">
 
   <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/Banner.png" width="100%"/>
-  <!--
-  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/DevGif.gif" width="50%"/>
-  -->
   
-  <!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-    I'm <a href="#">Paolo</a> currently a Third Year CSE student at <a href="3">@FEI :school: </a> and      aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
-  </samp>
+  <p align="center">
+  <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
+  </p>
+
+
 </p>
-  -->
-  
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
+
+
+<!--
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
 <!--Donate--> 
   
   
-</p> 
 
 <!--About Me-->
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/>
+<p align="center">
+<img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/><br/>
+</p>
 
 <p align="center">
   <samp>
@@ -67,7 +67,10 @@
 
 
 <!--Skills-->
+<p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
+</p>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white)
@@ -140,7 +143,11 @@
 
 
 <!--GitHub Stats-->
+
+<p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
+</p>
+
 
 <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=170929" />
@@ -170,7 +177,10 @@
 
 
 <!--Repositorios-->
+<p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
+</p>
+
 
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
