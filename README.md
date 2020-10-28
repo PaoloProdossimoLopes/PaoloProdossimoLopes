@@ -131,7 +131,7 @@ invisivle:
 
 <p align="center">
   <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=170929" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff" />
   </a>
   <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=170929" alt="Paolo's GitHub Stats" />
