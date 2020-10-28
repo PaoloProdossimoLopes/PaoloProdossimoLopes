@@ -54,8 +54,8 @@ badges markdown
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
 </p>
 
-<p align="center">
-  <img padding="100px" align="left" width="150" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
+<div align="center">
+  <img align="left" width="150" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 
   <p align="center">
     <p align="left">
@@ -81,7 +81,7 @@ badges markdown
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white"/></a>
     </p>
   </p>
-</p>
+</div>
 
 <!--
 invisivle:
@@ -122,6 +122,7 @@ invisivle:
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 -->
 
+<br/>
 
 <!--GitHub Stats-->
 
