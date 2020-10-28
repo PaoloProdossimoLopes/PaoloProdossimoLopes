@@ -73,23 +73,26 @@
 </p>
 
 <p align="center">
-<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d"/></a>
-<a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
-
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white"/></a>
-<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white"/></a>
-<a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/></a>
-
-<a href="#"><img alt="Adobe Photoshop cc" src="https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
-<a href="#"><img alt="Adobe Ilustrator cc" src="https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
-<a href="#"><img alt="Adobe XD cc" src="https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
-
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white"/></a>
-<a href="#"><img alt="mac OS X" src="https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white"/></a>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white"/></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d"/></a>
+  <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white"/></a>
+  <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white"/></a>
+  <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/></a>
+</p>
+<p align="center">
+  <a href="#"><img alt="Adobe Photoshop cc" src="https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
+  <a href="#"><img alt="Adobe Ilustrator cc" src="https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
+  <a href="#"><img alt="Adobe XD cc" src="https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <a href="#"><img alt="mac OS X" src="https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white"/></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white"/></a>
 </p>
 
 
