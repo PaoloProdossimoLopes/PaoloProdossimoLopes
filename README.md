@@ -130,10 +130,10 @@
 <!--GitHub Stats-->
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
 
-<a href="https://github.com/PaoloProdosismoLopes/PaoloProdosismoLopes">
+<a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdosismoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=8E2DE2" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdosismoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=8E2DE2" alt="Martin's GitHub Stats" />
 </a>
 
