@@ -67,34 +67,34 @@
 
 
 <!--Skills-->
+
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
 </p>
 
+<p align="center">
+<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d"/></a>
+<a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
 
-![HTML5](https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d)
-![Python](http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white)
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white"/></a>
+<a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/></a>
 
-![Git](https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+<a href="#"><img alt="Adobe Photoshop cc" src="https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
+<a href="#"><img alt="Adobe Ilustrator cc" src="https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
+<a href="#"><img alt="Adobe XD cc" src="https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
 
-![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
-![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
-![Adobe XD cc](https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white)
-![mac OS X](https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white)
-
-
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white"/></a>
+<a href="#"><img alt="mac OS X" src="https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white"/></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white"/></a>
+</p>
 
 
 <!--
-
+invisivle:
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
@@ -108,15 +108,6 @@
 ![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-orange?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Adobe XD cc](https://img.shields.io/badge/XD-magenta?style=flat-square&logo=Adobe-XD&logoColor=white)
-
-
--->
-
-
-
-
-
-<!--
 
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=19113d)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
@@ -148,14 +139,14 @@
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
 </p>
 
-
-<a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=170929" />
-</a>
-<a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=170929" alt="Paolo's GitHub Stats" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=170929" />
+  </a>
+  <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=170929" alt="Paolo's GitHub Stats" />
+  </a>
+</p>
 
 
 
@@ -182,15 +173,12 @@
 </p>
 
 
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=digitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-
-
-
-
-
+<p align="center">
+  <a href="#"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=digitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+    
+  <!--<a href="#"><img alt="" src=""/>-->
+</p>
 
 
 
