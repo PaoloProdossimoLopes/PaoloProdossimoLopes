@@ -1,3 +1,4 @@
+
 <!--Top-->
 <p align="center">
 
@@ -5,6 +6,17 @@
   <!--
   <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/DevGif.gif" width="50%"/>
   -->
+  
+  <!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  <samp>
+    I'm <a href="#">Paolo</a> currently a Third Year CSE student at <a href="3">@FEI :school: </a> and      aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+  </samp>
+</p>
+  -->
+  
 </p> 
 
 <!--About Me-->
@@ -59,6 +71,11 @@
 ![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Adobe XD cc](https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white)
 
+![Windows](https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white)
+![mac OS X](https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white)
+
+
 
 
 <!--
@@ -85,6 +102,8 @@
 
 
 <!--
+
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=19113d)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
@@ -111,13 +130,31 @@
 <!--GitHub Stats-->
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
 
+<a href="https://github.com/PaoloProdosismoLopes/PaoloProdosismoLopes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdosismoLopes&hide=java,html&title_color=8E2DE2&text_color=c9cacc&icon_color=fff&bg_color=8E2DE2" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdosismoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=8E2DE2" alt="Martin's GitHub Stats" />
+</a>
+
+
+
+
+
+
+
+
+
+
+<!--
+
 <p width= "50%" >
 <img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
 
-
+-->
 
 
 <!--Repositorios-->
