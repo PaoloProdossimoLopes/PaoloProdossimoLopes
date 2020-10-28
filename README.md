@@ -171,14 +171,14 @@ invisivle:
 
 
 <!--Repositorios-->
+
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
 </p>
 
-
 <p align="center">
   <a href="#"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=digitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
     
   <!--<a href="#"><img alt="" src=""/>-->
 </p>
