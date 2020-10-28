@@ -5,25 +5,30 @@
   <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/Banner.png" width="100%"/>
   
   <p align="center">
-  <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
+    <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
+    <!--
+    <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+    -->
+    <!--
+    <a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat- square&logo=instagram&logoColor=white" alt="Instagram" ></a>
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
+    -->
   </p>
-
-
 </p>
 
-
 <!--
+badges markdown
+![age](https://img.shields.io/badge/Age-20-blue)
+![living](https://img.shields.io/badge/Living-Brazil-green)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
 <!--Donate--> 
   
-  
-
 <!--About Me-->
 <p align="center">
 <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/><br/>
@@ -35,41 +40,22 @@
   </samp>
 </p>
 
-
-<!--
-![age](https://img.shields.io/badge/Age-20-blue)
-![living](https://img.shields.io/badge/Living-Brazil-green)
--->
-
-
 <!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
 - 🌱 &nbsp; Curious about cyber Security and Artificial Intelligence .
 -->
-
 <!--- ✍️ &nbsp; Watching Anime.-->
-<!--
-<a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
--->
-
-
-
-
-
-<!--
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-</p>
--->
-
 
 
 <!--Skills-->
 
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
+</p>
+
+<p width="30%">
+  <img alt="" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 </p>
 
 <p align="center">
@@ -152,21 +138,11 @@ invisivle:
 </p>
 
 
-
-
-
-
-
-
-
 <!--
-
 <p width= "50%" >
 <img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
 </p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
-
 -->
 
 
@@ -175,15 +151,17 @@ invisivle:
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
 </p>
-
 <p align="center">
   <a href="#"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
   <a href="#"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-    
-  <!--<a href="#"><img alt="" src=""/>-->
+  <!-- <a href="#"><img alt="" src=""/> -->
 </p>
-
-
+    
+<p align="center">
+  <samp>
+    BYE, SEE YOU LATER <a href="#"><img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif"   width="30px" /></a>
+  </samp>
+</p>
 
 <!--Visitors-->
 <p align="center">
