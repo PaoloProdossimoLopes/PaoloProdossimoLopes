@@ -57,7 +57,7 @@ badges markdown
 <p align="center">
   <img align="left" width="350px" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 
-<br/><br/><br/>
+<br/><br/><br/> <!--usado para regular tamanho da imagem e deixar as badges alinhadas-->
 
   <p align="center">
     <p align="left">
@@ -92,15 +92,12 @@ invisivle:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
 ![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-orange?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Adobe XD cc](https://img.shields.io/badge/XD-magenta?style=flat-square&logo=Adobe-XD&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=19113d)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -124,7 +121,7 @@ invisivle:
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 -->
 
-<br/><br/><br/>
+<br/><br/><br/> <!--usado para regular tamanho da imagem e deixar as badges alinhadas-->
 
 <!--GitHub Stats-->
 
@@ -163,7 +160,7 @@ invisivle:
     
 <p align="center">
   <samp>
-    BYE, SEE YOU LATER <a href="#"><img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif"   width="30px" /></a>
+    BYE, SEE YOU LATER <span><img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif"   width="30px" /></span>
   </samp>
 </p>
 
