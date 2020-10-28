@@ -17,25 +17,37 @@
 </p>
   -->
   
+  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
+<!--Donate--> 
+  
+  
 </p> 
 
 <!--About Me-->
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/>
+
+<p align="center">
+  <samp>
+    I'm <a href="#">Paolo</a> enthusiast about new technologies and how things work. Because of that I chose what I do and study constantly to improve. I love learn new things, explore and have ideas for apply with my knowledge to solve problems and create amazing stuffs.
+  </samp>
+</p>
+
 
 <!--
 ![age](https://img.shields.io/badge/Age-20-blue)
 ![living](https://img.shields.io/badge/Living-Brazil-green)
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
-<!--Donate--> 
 
+<!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
 - 🌱 &nbsp; Curious about cyber Security and Artificial Intelligence .
+-->
+
 <!--- ✍️ &nbsp; Watching Anime.-->
 <!--
 <a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" ></a>
