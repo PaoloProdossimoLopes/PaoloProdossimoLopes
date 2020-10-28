@@ -1,9 +1,10 @@
 <!--Top-->
 <p align="center">
+
+  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/Banner.png" width="100%"/>
   <!--
-  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/IMG_4484.PNG" width="1000"/>
+  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/DevGif.gif" width="50%"/>
   -->
-  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/Banner.png" />
 </p> 
 
 <!--About Me-->
