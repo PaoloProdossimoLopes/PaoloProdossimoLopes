@@ -34,10 +34,17 @@ badges markdown
 <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/><br/>
 </p>
 
+<p align="center">  
+<samp>Mechanical Engineering || Computer programming || Design</samp>
+
 <p align="center">
-  <samp>
-    I'm <a href="#">Paolo</a> enthusiast about new technologies and how things work. Because of that I chose what I do and study constantly to improve. I love learn new things, explore and have ideas for apply with my knowledge to solve problems and create amazing stuffs.
-  </samp>
+    <samp>
+      I'm <a href="#">Paolo</a> enthusiast about new technologies and how things work. Because of that I chose what I do and study constantly to improve. I love learn new things, explore and have ideas for apply with my knowledge to solve problems and create amazing stuffs.
+    </samp>
+  <p align="center">  
+    <span><samp>I'm Curious about Cyber Security, Artificial Intelligence (IA) and </samp></span><br/>
+    <span><samp>some other a couple things...</samp></span>
+  </p>
 </p>
 
 <!--
@@ -169,7 +176,7 @@ invisivle:
     
 <p align="center">
   <samp>
-    BYE, SEE YOU LATER <span><img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif"   width="30px" /></span>
+    BYE, BYE, SEE YOU LATER <img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif" width="30px"/>
   </samp>
 </p>
 
