@@ -47,16 +47,8 @@ badges markdown
   </p>
 </p>
 
-<!--
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying mechanical Engineering, computer programming, Design and some other a couple things.
-- 🌱 &nbsp; Curious about cyber Security and Artificial Intelligence .
--->
-<!--- ✍️ &nbsp; Watching Anime.-->
-
 
 <!--Skills-->
-
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
 </p>
