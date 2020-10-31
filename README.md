@@ -152,7 +152,7 @@ invisivle:
 </p>
 <p align="center">
   <a href="https://github.com/PaoloProdossimoLopes/TrunkProjetoIntegradorDH"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=TrunkProjetoIntegradorDH&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-    <a href="https://github.com/PaoloProdossimoLopes/TrunkProjetoIntegradorDH"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=MyBodyStats&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
+  <a href="https://github.com/PaoloProdossimoLopes/MyBodyStats"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=MyBodyStats&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
 </p>
 
 
