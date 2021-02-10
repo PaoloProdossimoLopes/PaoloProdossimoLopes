@@ -8,7 +8,9 @@
     <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
+    <!--
+        <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
+--!>
     <!--
     <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
     -->
