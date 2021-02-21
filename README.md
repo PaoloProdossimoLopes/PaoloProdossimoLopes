@@ -37,7 +37,7 @@ badges markdown
 </p>
 
 <p align="center">  
-<samp>Mechanical Engineering || Computer programming || Design</samp>
+<samp>Study: Mechanical Engineering || Computer programming || Design</samp>
 
 <p align="center">
     <samp>
