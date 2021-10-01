@@ -37,7 +37,7 @@ badges markdown
 </p>
 
 <p align="center">  
-<samp>Study: Mechanical Engineering || Computer programming || Design</samp>
+<samp>Study:iOS programming || Mechanical Engineering || Design</samp>
 
 <p align="center">
     <samp>
@@ -149,6 +149,7 @@ invisivle:
 
 
 <!-- Principais Repositorios-->
+<!--
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
 </p>
@@ -159,6 +160,8 @@ invisivle:
 
 
 <!-- Repositorios De estudo-->
+
+<!--
 <p align="center">
 <img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/TITLE.png"/>
 </p>
@@ -166,8 +169,9 @@ invisivle:
   <a href="https://github.com/PaoloProdossimoLopes/DankiCodeClassProjects"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
   <a href="https://github.com/PaoloProdossimoLopes/DigitalHouseProjects"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
   <a href="https://github.com/PaoloProdossimoLopes/PythonStudy"><img alt="Python Study Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=PythonStudy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <!-- <a href="#"><img alt="" src=""/> -->
+  <!-- <a href="#"><img alt="" src=""/>
 </p>
+-->
     
 <p align="center">
   <samp>
