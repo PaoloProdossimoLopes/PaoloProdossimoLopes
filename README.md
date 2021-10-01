@@ -37,7 +37,7 @@ badges markdown
 </p>
 
 <p align="center">  
-<samp>Study:iOS programming || Mechanical Engineering || Design</samp>
+<samp>Study: iOS programming || Mechanical Engineering || Design</samp>
 
 <p align="center">
     <samp>
