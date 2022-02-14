@@ -1,23 +1,10 @@
 
 <!--Top-->
 <p align="center">
-
-  <img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/Banner.png" width="100%"/>
-  
   <p align="center">
     <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-    <!--
-        <a href="http://bit.ly/PROLS-DONATE-GIT"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown"/></a>
---!>
-    <!--
-    <a href="#" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-    -->
-    <!--
-    <a href="https://www.instagram.com/paolo_prodossimo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat- square&logo=instagram&logoColor=white" alt="Instagram" ></a>
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=PaoloProdossimoLopes)
-    -->
   </p>
 </p>
 
@@ -64,13 +51,19 @@ badges markdown
     <p align="left">
       <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white"/></a>
       <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white"/></a>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-19113d?style=flat-square&logo=javascript&logoColor=white&color=19113d"/></a>
-      <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a>
+      <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-19113d?style=flat-square&logo=Ruby&logoColor=white"/></a>
+      <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a><br/>
+      <a href="#"><img alt="ObjectiveC" src="https://img.shields.io/badge/ObjectiveC-19113d?style=flat-square&logo=c&logoColor=white"/></a>
       <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
+      <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
+      <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-19113d?style=flat-square&logo=Java&logoColor=white"/></a>
+      <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-19113d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
     </p>
     <p align="left">
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white"/></a>
+      <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-19113d?style=flat-square&logo=pycharm&logoColor=white"/></a>
       <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white"/></a>
+      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-19113d?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
       <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/></a>
     </p>
     <p align="left">
@@ -119,60 +112,12 @@ invisivle:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
--->
-
-<br/><br/><br/><br/><br/><!--usado para regular tamanho da imagem e deixar as badges alinhadas-->
-
-<!--GitHub Stats-->
-
-<p align="center">
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/git.png"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff" />
-  </a>
-  <a href="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&line_height=27&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=2bbc8a&bg_color=170929" alt="Paolo's GitHub Stats" />
-  </a>
-</p>
-
-
-<!--
-<p width= "50%" >
-<img src="https://github-readme-stats.vercel.app/api?username=PaoloProdossimoLopes&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" >
-</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloProdossimoLopes&theme=radical&title_color=8E2DE2&text_color=fff)
+![Android Studio](http://img.shields.io/badge/-android_studio%20IDEA-000000?style=flat-square&logo=android_studio-idea&logoColor=ffffff)
 -->
 
 
-<!-- Principais Repositorios-->
-<!--
-<p align="center">
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/repo.png"/>
-</p>
-<p align="center">
-  <a href="https://github.com/PaoloProdossimoLopes/TrunkProjetoIntegradorDH"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=TrunkProjetoIntegradorDH&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="https://github.com/PaoloProdossimoLopes/MyBodyStats"><img alt="Trunk Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=MyBodyStats&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-</p>
+<br/><br/><br/><br/><br/><br/>
 
-
-<!-- Repositorios De estudo-->
-
-<!--
-<p align="center">
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/TITLE.png"/>
-</p>
-<p align="center">
-  <a href="https://github.com/PaoloProdossimoLopes/DankiCodeClassProjects"><img alt="Danki Code Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DankiCodeClassProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="https://github.com/PaoloProdossimoLopes/DigitalHouseProjects"><img alt="Digital House Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=DigitalHouseProjects&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <a href="https://github.com/PaoloProdossimoLopes/PythonStudy"><img alt="Python Study Repo" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloProdossimoLopes&repo=PythonStudy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <!-- <a href="#"><img alt="" src=""/>
-</p>
--->
-    
 <p align="center">
   <samp>
     BYE, BYE, SEE YOU LATER <img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif" width="30px"/>
