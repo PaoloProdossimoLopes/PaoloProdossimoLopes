@@ -43,7 +43,7 @@ badges markdown
 </p>
 
 <p align="center">
-  <img align="left" width="350px" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
+  <img align="left" width="350" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
 
 <br/><br/><br/><!--usado para regular tamanho da imagem e deixar as badges alinhadas-->
 
@@ -120,7 +120,7 @@ invisivle:
 
 <p align="center">
   <samp>
-    BYE, BYE, SEE YOU LATER <img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif" width="30px"/>
+    BYE, BYE, SEE YOU LATER <img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif" width="30"/>
   </samp>
 </p>
 
