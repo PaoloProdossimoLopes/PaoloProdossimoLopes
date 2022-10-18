@@ -7,21 +7,14 @@
 
 </h4>
 
-<!--
-<h4 align="center"> 
-
-![Paolo Prodossimo Readme title](https://capsule-render.vercel.app/api?type=transparent&height=20&height=300&section=header&fontColor=black&text=Hey%20%T!%20%Nice%20%to%20%meet%20%you&fontSize=40) 
-
-<!-- About -->
 <h2></h2>
 
-Dear **T**, how's going?</br>
-I'm **Paolo**. Actually I working as **iOS Engineer** from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> and currently working at Itaú bank. You can find me on the social medias mentioned above.
+Dear **T**, I hope you're well!</br>
+Actually I working as **iOS Engineer** from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> at Itaú. You can find me on the social medias mentioned above.
 
 
 ## I CODE USING
 Durig my daily code routine (for work or study) I use a couple lenguages and tools, see bellow. 
-
 
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
@@ -64,7 +57,6 @@ Durig my daily code routine (for work or study) I use a couple lenguages and too
 
 
 ## ✍ Blog & Writing
-
 Apart from coding, I also maintain a blog, you can find my articles on <!--my website at martinheinz.dev as well as on--> Medium. Let's see my the latest articles posted bellow!
 
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0" width="100%" alt="Recent Article 0">  | <a target="_blank" width="100%" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1" alt="Recent Article 1"> |
