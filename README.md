@@ -13,7 +13,7 @@ Dear **T**, I hope you're well!</br>
 Actually I living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> working as **iOS Engineer** [@Itaú]() and studing **Computer Cience** [@FEI](). You can find me on the social medias mentioned above.
 
 
-## I CODE USING
+## 🧰 I CODE USING
 Durig my daily code routine (for work or study) I use a couple lenguages and tools, see bellow. 
 
 <p>
