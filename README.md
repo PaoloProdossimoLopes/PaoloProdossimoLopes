@@ -1,133 +1,69 @@
+<!-- Social Badges -->
+<h4 align="center">
 
-<!--Top-->
-<p align="center">
-  <p align="center">
-    <a href="https://github.com/PaoloProdossimoLopes"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/paoloprodossimolopes/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:paolo.prodossimo.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
-</p>
+[![Medium Badge](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://medium.com/@PaoloProdossimoLopes)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://www.linkedin.com/in/PaoloProdossimoLopes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](mailto:paolo.prodossimo.lopes@gmail.com)
+
+</h4>
 
 <!--
-badges markdown
-![age](https://img.shields.io/badge/Age-20-blue)
-![living](https://img.shields.io/badge/Living-Brazil-green)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PaoloProdossimoLopes)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paoloprodossimolopes/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paolo.prodossimo.lopes@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](http://bit.ly/PROLS-DONATE-GIT)
-<!--Donate--> 
+<h4 align="center"> 
+
+![Paolo Prodossimo Readme title](https://capsule-render.vercel.app/api?type=transparent&height=20&height=300&section=header&fontColor=black&text=Hey%20%T!%20%Nice%20%to%20%meet%20%you&fontSize=40) 
+
+<!-- About -->
+<h2></h2>
+
+Dear **T**, how's going?</br>
+I'm **Paolo**. Actually I working as **iOS Engineer** from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> and currently working at Itaú bank. You can find me on the social medias mentioned above.
+
+
+## I CODE USING
+Durig my daily code routine (for work or study) I use a couple lenguages and tools, see bellow. 
+
+
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white)" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)" />
+  <img alt="Ruby" src="http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)" />
+  <img alt="VSCode" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f" />
+  <img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   
-<!--About Me-->
-<p align="center">
-<img src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/about.png"/><br/>
-</p>
-
-<p align="center">  
-<samp>Study: iOS programming || Mechanical Engineering || Design</samp>
-
-<p align="center">
-    <samp>
-      I'm <a href="#">Paolo</a> enthusiast about new technologies and how things work. Because of that I chose what I do and study constantly to improve. I love learn new things, explore and have ideas for apply with my knowledge to solve problems and create amazing stuffs.
-    </samp>
-  <p align="center">  
-    <span><samp>I'm Curious about Cyber Security, Artificial Intelligence (IA) and </samp></span><br/>
-    <span><samp>some other a couple things...</samp></span>
-  </p>
 </p>
 
 
-<!--Skills-->
+## ✍ Blog & Writing
+
+Apart from coding, I also maintain a blog, you can find my articles on <!--my website at martinheinz.dev as well as on--> Medium. Let's see my the latest articles posted bellow!
+
+| <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0" width="100%" alt="Recent Article 0">  | <a target="_blank" width="100%" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1" alt="Recent Article 1"> |
+| :-: | :-: |
+  
+  
+<!-- Stats -->
+## 📈 GitHub Stats
+ 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaoloProdossimoLopes&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaoloProdossimoLopes&theme=nord_dark) |
+| :-: | :-: |
+  
+  
+<!-- Visitors -->
 <p align="center">
-<img align="center" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/skills.png"/>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloProdossimoLopes" id="counter"> 
+  
 </p>
-
-<p align="center">
-  <img align="left" width="350" alt="Gif" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/5bfebd7decaab406f4c7face_process_icons_morph_loop.gif"/>
-
-<br/><br/><br/><!--usado para regular tamanho da imagem e deixar as badges alinhadas-->
-
-  <p align="center">
-    <p align="left">
-      <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-19113d?style=flat-square&logo=HTML5&logoColor=white"/></a>
-      <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-19113d?style=flat-square&logo=CSS3&logoColor=white"/></a>
-      <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-19113d?style=flat-square&logo=Ruby&logoColor=white"/></a>
-      <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-19113d?style=flat-square&logo=python&logoColor=white"/></a><br/>
-      <a href="#"><img alt="ObjectiveC" src="https://img.shields.io/badge/ObjectiveC-19113d?style=flat-square&logo=c&logoColor=white"/></a>
-      <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
-      <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-19113d?style=flat-square&logo=Swift&logoColor=white"/></a>
-      <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-19113d?style=flat-square&logo=Java&logoColor=white"/></a>
-      <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-19113d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-    </p>
-    <p align="left">
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-19113d?style=flat-square&logo=Git&logoColor=white"/></a>
-      <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-19113d?style=flat-square&logo=pycharm&logoColor=white"/></a>
-      <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-19113d?style=flat-square&logo=Xcode&logoColor=white"/></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-19113d?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
-      <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-19113d?style=flat-square&logo=visual-studio-code&logoColor=ffffff"/></a>
-    </p>
-    <p align="left">
-      <a href="#"><img alt="Adobe Photoshop cc" src="https://img.shields.io/badge/Photoshop-19113d?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
-      <a href="#"><img alt="Adobe Ilustrator cc" src="https://img.shields.io/badge/Ilustrator-19113d?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
-      <a href="#"><img alt="Adobe XD cc" src="https://img.shields.io/badge/XD-19113d?style=flat-square&logo=Adobe-XD&logoColor=white"/></a>
-    </p>
-    <p align="left">
-      <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-19113d?style=flat-square&logo=Windows&logoColor=white"/></a>
-      <a href="#"><img alt="mac OS X" src="https://img.shields.io/badge/OSX-19113d?style=flat-square&logo=apple&logoColor=white"/></a>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-19113d?style=flat-square&logo=Linux&logoColor=white"/></a>
-    </p>
-  </p>
-</p>
-
-<!--
-invisivle:
-![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Adobe Photoshop cc](https://img.shields.io/badge/Photoshop-blue?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
-![Adobe Ilustrator cc](https://img.shields.io/badge/Ilustrator-orange?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
-![Adobe XD cc](https://img.shields.io/badge/XD-magenta?style=flat-square&logo=Adobe-XD&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=19113d)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
-![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
-![Rails](http://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
-![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-android_studio%20IDEA-000000?style=flat-square&logo=android_studio-idea&logoColor=ffffff)
--->
-
-
-<br/><br/><br/><br/><br/><br/>
-
-<p align="center">
-  <samp>
-    BYE, BYE, SEE YOU LATER <img alt="Hand" src="https://github.com/PaoloProdossimoLopes/PaoloProdossimoLopes/blob/main/images/hand%20waving.gif" width="30"/>
-  </samp>
-</p>
-
-<!--Visitors-->
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloProdossimoLopes" id="counter">
-</p>
-
-
-
