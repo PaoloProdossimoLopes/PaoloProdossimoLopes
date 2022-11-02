@@ -3,7 +3,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://medium.com/@PaoloProdossimoLopes)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://www.linkedin.com/in/PaoloProdossimoLopes/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](mailto:paolo.prodossimo.lopes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](mailto:paolo.prodossimo.lopes@gmail.com)
 
 </h4>
 
