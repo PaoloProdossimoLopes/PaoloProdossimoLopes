@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://medium.com/@PaoloProdossimoLopes)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](https://www.linkedin.com/in/PaoloProdossimoLopes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/PaoloProdossimoLopes)](mailto:paolo.prodossimo.lopes@gmail.com)
-
+[![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@code_boy)](https://www.youtube.com/@code_boy)
 </h4>
 
 <h2></h2>
@@ -22,6 +22,7 @@ Durig my daily code routine (for work or study) I use a couple lenguages and too
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=whit" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
