@@ -21,14 +21,14 @@ Durig my daily code routine (for work or study) I use a couple lenguages and too
   <img alt="Objective-C" src="https://img.shields.io/badge/_Objective_-C-%F54A2A?style=for-the-badge&logo=objc&logoColor=white" />
   <img alt="C ++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <br>
   <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <br>
   <img alt="RXSwift" src="https://img.shields.io/badge/rxswift-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
+  <img alt="UIKit" src="https://img.shields.io/badge/uikit-39477F?style=for-the-badge&logo=uikit&logoColor=white" />
   <img alt="CoreData" src="https://img.shields.io/badge/-CoreData-39477F?style=for-the-badge&logo=core-data&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-39477F?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Combine" src="https://img.shields.io/badge/combine-39477F?style=for-the-badge&logo=combine&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <br>
   <img alt="Travis" src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <!--
