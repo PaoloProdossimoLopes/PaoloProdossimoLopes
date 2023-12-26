@@ -9,28 +9,27 @@
 Dear **T**, I hope you're well!</br>
 Actually I living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> working as **iOS Engineer** [@Itaú]() and studing **Computer Cience** [@FEI](). You can find me on the social medias mentioned above.
 
-
 ## 🧰 I WORK USING
 
-Durig my daily code routine (for work or study) I use a couple lenguages and tools, see bellow.
+During my daily coding routine (for work or study), I use several languages and tools, see below:
 
 - **Swift** and **Objective-C** to develop and maintain the product.
-- **UIKit** and **SwiftUI** frameworks with **Core animation* to create pretty users interfaces reponsables and acessibles improving the appstore application rate.
-- **Native URLSession**, **Alamofire**, **Apolo** and/or **Trust** to comunicate the application with the backend.
-- **CGD** to improve performance of the application on handeling the datas
-- **Core data** to store massive datas in devices faster and reliable.
-- **Keychain** to store sessive datas like credential avoiding security weaknesses.
-- **User Default** to store the basic prefence data to improve the experience of user.
-- **Architectural UI patterns** like **MVC**, **MVVM-C**, **Composable Architecture**, **VIP** or **VIPER**.
-- **Combine** or **RXSwift** to handle the datas that transaction in the application to became more flexible and reative.
-- **CocoaPods** and **SPM (Swift Package Manager)** to manage the application dependencies.
-- **SwiftLint** and **SwiftFormat** to improve development guideline. This became more easily the maintenance of codebase and your **Continuos Integration (CI)**.
-- **Fastlane** to automate the process of to deleiver the app to the **TestFlight** and **AppStore** saving a several time to deploy a new version (CD).
-- Other frameworks that I have experice to use to access native resoruce is **Core Location**, **Core Bluetooth**, **HealthKit**, **AVFoundation** and **StoreKie**.
+- **UIKit** and **SwiftUI** frameworks along with **Core Animation** to create visually appealing, responsive, and accessible user interfaces, thus improving the App Store application rating.
+- **Native URLSession**, **Alamofire**, **Apollo**, and/or **TrustKit** to enable application communication with the backend.
+- **Grand Central Dispatch (GCD)** to enhance application performance when handling data.
+- **Core Data** to store massive amounts of data on devices quickly and reliably.
+- **Keychain** to securely store sensitive data like credentials and avoid security weaknesses.
+- **UserDefaults** to store basic preference data and improve user experience.
+- **Architectural UI patterns** like **MVC**, **MVVM-C**, **Composable Architecture**, **VIP**, or **VIPER**.
+- **Combine** or **RxSwift** to manage data transactions in the application, making it more flexible and reactive.
+- **CocoaPods** and **SPM (Swift Package Manager)** to manage application dependencies.
+- **SwiftLint** and **SwiftFormat** to adhere to development guidelines, easing the maintenance of the codebase and continuous integration (CI) process.
+- **Fastlane** to automate the process of delivering the app to **TestFlight** and the **AppStore**, significantly saving time during new version deployments (CD).
+- Other frameworks I have experience with include **Core Location**, **Core Bluetooth**, **HealthKit**, **AVFoundation**, and **StoreKit** for accessing native resources.
 
-## ✍ Blog & Writing
+## ✍️ Blog & Writing
 
-Apart from coding, I also maintain a blog, you can find my articles on <!--my website at martinheinz.dev as well as on--> Medium. Let's see my the latest articles posted bellow!
+Apart from coding, I also maintain a blog. You can find my articles on Medium. Check out my latest articles below!
 
 | <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/0" width="100%" alt="Recent Article 0">  | <a target="_blank" width="100%" href="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@PaoloProdossimoLopes/1" alt="Recent Article 1"> |
 | :-: | :-: |
