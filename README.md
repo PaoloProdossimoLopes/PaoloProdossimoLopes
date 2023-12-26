@@ -7,7 +7,7 @@
 </h4>
 
 Dear **T**, I hope you're well!</br>
-Actually I living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> working as **iOS Engineer** [@Itaú](https://www.itau.com.br/) and studing **Computer Cience** [@FEI](https://portal.fei.edu.br/). In my free time I work in my personal projects in the [**@Programou**](https://github.com/Programou-io) to create my own products. You can find me on the social medias mentioned above.
+Actually I living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>São Paulo, Brazil</b> working as **iOS Engineer** [@Itaú](https://www.itau.com.br/) and studing **Computer Cience** [@FEI](https://portal.fei.edu.br/). In my free time I work in my personal projects in the [@Programou](https://github.com/Programou-io) to create my own products. You can find me on the social medias mentioned above.
 
 ## 🧰 I WORK USING
 
